@@ -12,5 +12,6 @@ A simple bash script to analyze server performance statistics.
 
 ## Usage
 ```bash
+git clone https://github.com/YounessBilgui/DevOps-Projects-
 chmod +x server-stats.sh
 ./server-stats.sh
