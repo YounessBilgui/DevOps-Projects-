@@ -2,6 +2,7 @@ the project link https://roadmap.sh/projects/server-stats
 the project link https://roadmap.sh/projects/log-archive-tool
 the project link https://roadmap.sh/projects/nginx-log-analyser
 the project link https://roadmap.sh/projects/ssh-remote-server-setup
+the project link https://roadmap.sh/projects/basic-dockerfile
 # SSH Server Setup on AWS EC2
 
 This project demonstrates setting up a remote Linux server on AWS EC2 and configuring it to allow SSH connections using multiple key pairs.
